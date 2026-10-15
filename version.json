@@ -1,1 +1,5 @@
-{"updated_at":"2026-10-14","version":"v1.28", "sha256":"a929c7d7fcd9182677841d965cc3164f0e76ca37710141dee727cb4143a6a384"}
+{
+  "version": "v1.29",
+  "sha256": "e00c7c3c99c0618fa28a484bb031c407220e3e1702546c043a03d7c4cabecd0d",
+  "updated_at": "2026-10-15"
+}
