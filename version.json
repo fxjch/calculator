@@ -1,6 +1,6 @@
 {
   "version": "v1.33",
-  "sha256": "44991cb2eec57f7b5dc3ff4b2af71f91c79d87778afae80518c355f87513f4ce",
+  "sha256": "ebc450f50bc493e99ff10876ac0aa27f1675878c0b79b375ab6a76d354e523c3",
   "notes": [
     "优化函数计算精度，修复一些bug",
     "优化历史记录弹窗和记忆弹窗",
