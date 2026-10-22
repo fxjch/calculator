@@ -1,6 +1,6 @@
 {
   "version": "v1.35.1",
-  "sha256": "7f7efc27fee416697b0e0b9034769b9f26b0ec769276051a7fb4c9ce4c8a8f21",
+  "sha256": "90ced79a7372a961c544fdef93c7bf5c074ec208e0e255fdb79cfffff329f2d9",
   "notes": [
     "修改了UI及键盘样式",
     "优化了窗口和字体的缩放逻辑",
